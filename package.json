@@ -1,0 +1,23 @@
+{
+  "name": "hyperterm-fish-complete",
+  "version": "1.0.0",
+  "description": "enable shift+enter to accept fish autocomplete suggestion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mquinnv/hyperterm-fish-complete.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "fish"
+  ],
+  "author": "Michael Ventura <michael.ventura@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mquinnv/hyperterm-fish-complete/issues"
+  },
+  "homepage": "https://github.com/mquinnv/hyperterm-fish-complete#readme"
+}
