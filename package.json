@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-fish-complete",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "enable hotkey (e.g. shift+enter) to accept fish autocomplete suggestion",
   "main": "index.js",
   "scripts": {
