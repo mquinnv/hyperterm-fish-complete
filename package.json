@@ -1,7 +1,7 @@
 {
   "name": "hyperterm-fish-complete",
   "version": "1.0.0",
-  "description": "enable shift+enter to accept fish autocomplete suggestion",
+  "description": "enable hotkey (e.g. shift+enter) to accept fish autocomplete suggestion",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mquinnv/hyperterm-fish-complete/issues"
   },
-  "homepage": "https://github.com/mquinnv/hyperterm-fish-complete#readme"
+  "homepage": "https://github.com/mquinnv/hyperterm-fish-complete#readme",
+  "dependencies": {
+    "hyperterm-register-shortcut": "^1.0.1"
+  }
 }
